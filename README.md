@@ -12,3 +12,4 @@ The primary focus of this project involves the analysis of a comprehensive datas
 ## Certificates
 
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/5071c19f0df6a8ff5569e4251c4da158) (Coursera - Google)
+- [Udemy_Power BI](https://www.udemy.com/certificate/UC-2b23dd77-b623-4f1f-8b4a-54058e34f2d9/)
